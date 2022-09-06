@@ -1,0 +1,101 @@
+Id,Idade,Renda,Sexo,Escolaridade,Cidade,Renda Media,ativo,Renda Total,Sexo modificado
+52,48,1912,masculino,Ensino médio,Recife,3301.265,4690.53,6602.53,M
+41,43,1959,feminino,Ensino Superior,Salvador,2246.5299999999997,2534.06,4493.0599999999995,F
+38,40,2006,feminino,Ensino fundamental,Salvador,2519.41,3032.82,5038.82,F
+29,67,2034,masculino,Ensino fundamental,Salvador,2720.76,3407.52,5441.52,M
+99,58,2375,feminino,Ensino Superior,Rio de Janeiro,2293.04,2211.08,4586.08,F
+7,43,2414,feminino,Ensino médio,São Paulo,2708.035,3002.07,5416.07,F
+15,60,2421,masculino,Ensino Superior,Salvador,2710.0550000000003,2999.11,5420.110000000001,M
+56,42,2485,feminino,Ensino médio,Salvador,1865.1399999999999,1245.28,3730.2799999999997,F
+76,25,2506,feminino,Ensino Superior,São Paulo,3261.83,4017.66,6523.66,F
+12,26,2603,feminino,Ensino fundamental,Salvador,3101.75,3600.5,6203.5,F
+34,69,2606,feminino,Ensino Superior,Salvador,2490.285,2374.57,4980.57,F
+72,42,2704,masculino,Ensino fundamental,São Paulo,2766.225,2828.45,5532.45,M
+53,29,2779,feminino,Ensino fundamental,Salvador,3142.15,3505.3,6284.3,F
+11,67,2862,masculino,Ensino fundamental,São Paulo,2800.3199999999997,2738.64,5600.639999999999,M
+96,67,2958,masculino,Ensino médio,Recife,2857.625,2757.25,5715.25,M
+91,29,3027,masculino,Ensino médio,Recife,2286.88,1546.76,4573.76,M
+8,47,3039,feminino,Ensino fundamental,Curitiba,3296.79,3554.58,6593.58,F
+37,46,3113,feminino,Ensino fundamental,Salvador,3118.44,3123.88,6236.88,F
+90,40,3334,masculino,Ensino Superior,Curitiba,3304.23,3274.46,6608.46,M
+42,30,3533,feminino,Ensino médio,Recife,2503.24,1473.48,5006.48,F
+70,38,3580,masculino,Ensino fundamental,Rio de Janeiro,4115.35,4650.7,8230.7,M
+35,43,3610,feminino,Ensino fundamental,Recife,3382.17,3154.34,6764.34,F
+81,52,3685,feminino,Ensino médio,Salvador,3148.9300000000003,2612.86,6297.860000000001,F
+86,33,3769,feminino,Ensino Superior,Curitiba,4399.035,5029.07,8798.07,F
+82,58,3806,feminino,Ensino médio,São Paulo,3380.3050000000003,2954.61,6760.610000000001,F
+51,41,3876,feminino,Ensino médio,Curitiba,2712.66,1549.32,5425.32,F
+62,42,4064,masculino,Ensino Superior,São Paulo,3329.385,2594.77,6658.77,M
+5,67,4105,feminino,Ensino fundamental,Recife,2408.34,711.68,4816.68,F
+100,60,4265,masculino,Ensino fundamental,Salvador,4157.2,4049.4,8314.4,M
+1,27,4297,masculino,Ensino médio,São Paulo,3440.2650000000003,2583.53,6880.530000000001,M
+28,32,4314,masculino,Ensino Superior,Curitiba,3285.725,2257.45,6571.45,M
+9,66,4345,feminino,Ensino médio,Recife,4208.735,4072.47,8417.47,F
+4,18,4366,feminino,Ensino fundamental,Salvador,2857.46,1348.92,5714.92,F
+14,18,4625,masculino,Ensino Superior,Recife,4080.215,3535.43,8160.43,M
+93,30,4658,masculino,Ensino médio,Recife,2796.795,935.59,5593.59,M
+23,42,4716,feminino,Ensino médio,Rio de Janeiro,3526.92,2337.84,7053.84,F
+46,45,4929,feminino,Ensino fundamental,Rio de Janeiro,3362.39,1795.78,6724.78,F
+43,19,4993,masculino,Ensino Superior,Salvador,4727.49,4461.98,9454.98,M
+97,33,5068,masculino,Ensino Superior,Recife,4917.08,4766.16,9834.16,M
+30,69,5180,masculino,Ensino Superior,Salvador,3925.295,2670.59,7850.59,M
+61,25,5253,feminino,Ensino médio,Curitiba,4546.865,3840.73,9093.73,F
+36,31,5330,masculino,Ensino médio,Rio de Janeiro,4075.005,2820.01,8150.01,M
+71,50,5343,masculino,Ensino médio,Salvador,4455.53,3568.06,8911.06,M
+59,36,5530,feminino,Ensino médio,São Paulo,3888.58,2247.16,7777.16,F
+66,25,5699,masculino,Ensino médio,São Paulo,3495.33,1291.66,6990.66,M
+69,51,5746,masculino,Ensino Superior,Recife,3471.45,1196.9,6942.9,M
+26,26,5797,feminino,Ensino Superior,Rio de Janeiro,4590.0599999999995,3383.12,9180.119999999999,F
+88,39,5936,feminino,Ensino fundamental,São Paulo,5591.8,5247.6,11183.6,F
+47,36,5942,feminino,Ensino médio,Rio de Janeiro,4605.705,3269.41,9211.41,F
+65,64,5943,masculino,Ensino fundamental,Recife,4209.2,2475.4,8418.4,M
+92,66,5946,feminino,Ensino Superior,São Paulo,5429.01,4912.02,10858.02,F
+33,31,5951,masculino,Ensino fundamental,Recife,4594.15,3237.3,9188.3,M
+77,42,5972,feminino,Ensino médio,Curitiba,4536.715,3101.43,9073.43,F
+84,31,6032,masculino,Ensino médio,Salvador,4642.29,3252.58,9284.58,M
+85,42,6241,feminino,Ensino médio,Recife,4554.3099999999995,2867.62,9108.619999999999,F
+24,61,6267,masculino,Ensino fundamental,Curitiba,4478.76,2690.52,8957.52,M
+45,54,6276,feminino,Ensino fundamental,Salvador,3920.52,1565.04,7841.04,F
+3,33,6343,feminino,Ensino fundamental,Salvador,4922.3099999999995,3501.62,9844.619999999999,F
+67,29,6373,feminino,Ensino fundamental,Salvador,4639.11,2905.22,9278.22,F
+54,46,6473,feminino,Ensino médio,São Paulo,5333.045,4193.09,10666.09,F
+44,49,6513,masculino,Ensino médio,Curitiba,4572.09,2631.18,9144.18,M
+60,34,6633,masculino,Ensino fundamental,Curitiba,3863.315,1093.63,7726.63,M
+58,33,6833,feminino,Ensino Superior,Curitiba,4866.695,2900.39,9733.39,F
+68,46,6883,masculino,Ensino médio,Curitiba,5791.27,4699.54,11582.54,M
+25,51,6977,masculino,Ensino médio,Recife,4796.79,2616.58,9593.58,M
+16,58,6986,masculino,Ensino Superior,Salvador,4548.07,2110.14,9096.14,M
+98,62,7176,masculino,Ensino médio,Salvador,4491.205,1806.41,8982.41,M
+48,47,7203,masculino,Ensino Superior,Curitiba,4576.49,1949.98,9152.98,M
+74,23,7328,feminino,Ensino fundamental,São Paulo,5013.905,2699.81,10027.81,F
+40,48,7369,feminino,Ensino médio,Recife,4594.51,1820.02,9189.02,F
+39,48,7609,feminino,Ensino médio,Curitiba,6053.32,4497.64,12106.64,F
+87,24,7627,feminino,Ensino fundamental,Salvador,5172.18,2717.36,10344.36,F
+75,22,7802,feminino,Ensino Superior,São Paulo,5455.325,3108.65,10910.65,F
+57,27,7850,feminino,Ensino fundamental,Rio de Janeiro,6144.12,4438.24,12288.24,F
+2,54,7957,feminino,Ensino Superior,Recife,6230.16,4503.32,12460.32,F
+79,68,7974,feminino,Ensino fundamental,São Paulo,5380.635,2787.27,10761.27,F
+27,54,8066,masculino,Ensino médio,Salvador,5698.985,3331.97,11397.97,M
+64,35,8184,feminino,Ensino fundamental,Recife,5959.515,3735.03,11919.03,F
+49,31,8292,masculino,Ensino Superior,Salvador,5549.57,2807.14,11099.14,M
+63,29,8371,feminino,Ensino médio,Salvador,4796.495,1221.99,9592.99,F
+18,69,8429,feminino,Ensino Superior,São Paulo,6041.855,3654.71,12083.71,F
+95,50,8457,feminino,Ensino médio,Curitiba,6175.675,3894.35,12351.35,F
+89,60,8588,masculino,Ensino Superior,Rio de Janeiro,6001.75,3415.5,12003.5,M
+73,62,8616,masculino,Ensino médio,Salvador,5346.23,2076.46,10692.46,M
+83,33,8642,masculino,Ensino Superior,Rio de Janeiro,5722.985,2803.97,11445.97,M
+31,31,8735,feminino,Ensino Superior,São Paulo,5572.115,2409.23,11144.23,F
+32,23,8763,masculino,Ensino Superior,Rio de Janeiro,5731.645,2700.29,11463.29,M
+22,29,8877,masculino,Ensino fundamental,Curitiba,6586.945,4296.89,13173.89,M
+13,27,8911,masculino,Ensino médio,São Paulo,6720.29,4529.58,13440.58,M
+19,34,9005,feminino,Ensino Superior,Rio de Janeiro,6337.21,3669.42,12674.42,F
+94,46,9121,masculino,Ensino fundamental,Recife,6334.875,3548.75,12669.75,M
+55,28,9210,masculino,Ensino Superior,Salvador,6443.3150000000005,3676.63,12886.630000000001,M
+6,46,9345,masculino,Ensino Superior,São Paulo,6166.38,2987.76,12332.76,M
+50,40,9393,masculino,Ensino fundamental,Curitiba,6158.67,2924.34,12317.34,M
+20,54,9413,masculino,Ensino médio,São Paulo,5869.675,2326.35,11739.35,M
+10,47,9452,masculino,Ensino fundamental,Curitiba,6198.0650000000005,2944.13,12396.130000000001,M
+80,62,9466,masculino,Ensino fundamental,São Paulo,7362.975,5259.95,14725.95,M
+78,42,9552,masculino,Ensino Superior,São Paulo,6710.52,3869.04,13421.04,M
+17,54,9612,masculino,Ensino médio,Salvador,6134.9400000000005,2657.88,12269.880000000001,M
+21,65,9978,masculino,Ensino Superior,Rio de Janeiro,6253.035,2528.07,12506.07,M
